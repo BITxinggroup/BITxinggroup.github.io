@@ -9,8 +9,8 @@ sections:
     content:
       title: Contact
       text:  Welcome outstanding students who are interested in scientific research to join our laboratory!    # 欢迎有志于科研的优秀学子加入本实验室！
-      email: chengwenxing@bit.edu.cn    Prof.Xing   10#609
-      email: shiqigong@bit.edu.cn       Prof.Gong             # 巩世琪副教授
+      email: chengwenxing@bit.edu.cn   
+      directions: shiqigong@bit.edu.cn          # 巩世琪副教授
       # phone: 888 888 88 88
       # address: 北京市海淀区中关村南大街5号院  北京理工大学
       # # address: 邢成文教授： 10#609(信息科学实验楼609)
@@ -21,9 +21,9 @@ sections:
       #   postcode: '100081'
       #   country: 中国
       #   country_code: CN
-      # coordinates:
-      #   latitude: '39.9576'
-      #   longitude: '116.3192'
+      coordinates:
+        latitude: '39.9576'
+        longitude: '116.3192'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
