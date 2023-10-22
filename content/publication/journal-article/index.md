@@ -1,13 +1,11 @@
 ---
-
-title: 'Asynchronous Distributed Beamforming Optimization Framework for RIS-Assisted Wireless Communications'
+title: 'An example journal article'
 authors:
-     S. Xie
-     S. Gong
-     H. Liu
-     C. Xing
-     J. An
-     Y. Li
+  - admin
+  - Robert Ford
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2015-09-01T00:00:00Z'
 doi: ''
 
@@ -65,9 +63,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
-
-
-
 ---
 
 {{% callout note %}}
