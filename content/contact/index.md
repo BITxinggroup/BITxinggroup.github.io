@@ -16,12 +16,12 @@ sections:
       address: 北京市海淀区中关村南大街5号院  北京理工大学
       # address: 邢成文教授： 10#609(信息科学实验楼609)
       # address: 巩世琪副教授： 中心教学楼544
-        # street: 450 Serra Mall
-        # city: Stanford
-        # region: CA
-        # postcode: '94305'
-        # country: United States
-        # country_code: US
+        street: 中关村南大街5号院北京理工大学  邢成文教授： 10#609(信息科学实验楼609)   巩世琪副教授： 中心教学楼544
+        city: 海淀区
+        region: 北京
+        postcode: '100081'
+        country: 中国
+        country_code: CN
       coordinates:
         latitude: '39.9576'
         longitude: '116.3192'
