@@ -1,12 +1,16 @@
 ---
-title: 'An example journal article'
+title: 'Hybrid Multi-Antenna Transceiver Optimizations for IoT Systems via Downlink-Uplink Duality'
 authors:
-  - admin
-  - Robert Ford
+  - Jinhui Fang;
+  - Heng Liu;
+  - Chengwen Xing;
+  - Siyuan Xie;
+  - Shiqi Gong;
+  - Jianping An
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+date: '2023-09-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
