@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: 实验室.jpg
+            filename: 实验室.png
             filters:
               brightness: 0.7
           position: right
@@ -28,7 +28,7 @@ sections:
       #   align: left
       #   background:
       #     image:
-      #       filename: 国际交流.jpg
+      #       filename: 国际交流.png
       #       filters:
       #         brightness: 0.7
       #     position: center
