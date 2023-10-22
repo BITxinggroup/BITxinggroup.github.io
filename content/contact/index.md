@@ -8,8 +8,8 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: 欢迎有志于科研的优秀学子加入本实验室！
-      email: chengwenxing@bit.edu.cn, shiqigong@bit.edu.cn
+      text:  Welcome                   # 欢迎有志于科研的优秀学子加入本实验室！
+      email: chengwenxing@bit.edu.cn #, shiqigong@bit.edu.cn
       # email: shiqigong@bit.edu.cn 巩世琪副教授
       # phone: 888 888 88 88
       # address: 北京市海淀区中关村南大街5号院  北京理工大学
