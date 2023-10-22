@@ -1,6 +1,6 @@
 ---
 title: 博士研究生赵鑫获得国家奖学金
-date: 2023-10
+date: 2023-10-01
 image:
   focal_point: 'top'
 ---
