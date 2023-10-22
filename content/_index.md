@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        北理工通信技术实验室
       image:
-        filename: welcome.jpg
+        filename: 实验室.png
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        北京理工大学通信技术实验室，隶属于国家级重点一级学科“信息与通信工程”。实验室立足信息时代发展需求，专注于无线通信的前沿理论研究，致力于培养通信领域专业型、创新型人才。
   
   - block: collection
     content:
