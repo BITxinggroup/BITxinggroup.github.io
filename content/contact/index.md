@@ -23,8 +23,8 @@ sections:
       #   country_code: CN
 
       coordinates:
-        latitude: '39.95773061692694'
-        longitude: '116.31912592137144'
+        latitude: '39.95745512590999'
+        longitude: '116.31920446649254'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
