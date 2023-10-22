@@ -8,8 +8,7 @@ sections:
   - block: contact
     content:
       title: Contact
-      text: |-
-        欢迎有志于科研的优秀学子加入本实验室！
+      text: 欢迎有志于科研的优秀学子加入本实验室！
       email: chengwenxing@bit.edu.cn, shiqigong@bit.edu.cn
       # email: shiqigong@bit.edu.cn 巩世琪副教授
       # phone: 888 888 88 88
@@ -22,9 +21,9 @@ sections:
       #   postcode: '100081'
       #   country: 中国
       #   country_code: CN
-      coordinates:
-        latitude: '39.9576'
-        longitude: '116.3192'
+      # coordinates:
+      #   latitude: '39.9576'
+      #   longitude: '116.3192'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
