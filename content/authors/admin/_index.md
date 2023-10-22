@@ -1,29 +1,29 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 邢成文
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Chengwen
+last_name: Xing
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 教授，博士生导师
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 北京理工大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 研究方向：阵列信号处理，矩阵单调优化理论和非凸优化理论等。
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 阵列信号处理
+  - 矩阵单调优化理论
+  - 非凸优化理论
 
 education:
   courses:
