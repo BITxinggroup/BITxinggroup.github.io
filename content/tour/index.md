@@ -33,16 +33,6 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: 实验室支持学生开展国际学术交流
-        content: '近年来，实验室多名同学前往海外（境外）知名高校访学，包括香港科技大学、英国伦敦玛丽女王大学、新加坡国立大学、新加坡科技设计大学、澳门大学、香港理工大学等。'
-        align: right
-        background:
-          image:
-            filename: 学术会议作报告.jpg
-            filters:
-              brightness: 0.5
-          position: center
-          color: '#333'
       - title: 支持学生开展国际学术交流
         content: '多名同学前往海外（境外）知名高校访学，包括香港科技大学、英国伦敦玛丽女王大学、新加坡国立大学、新加坡科技设计大学、澳门大学、香港理工大学等。'
         align: right
