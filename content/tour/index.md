@@ -174,7 +174,7 @@ sections:
           position: center
           color: '#333'
       - title: 团建活动
-        content: '实验室定期组织参加学术讲座、参观博物馆、市郊游玩、聚餐、羽毛球、乒乓球运动等丰富的团建活动。。'
+        content: '实验室定期组织参加学术讲座、参观博物馆、市郊游玩、聚餐、羽毛球、乒乓球运动等丰富的团建活动。'
         align: right
         background:
           image:
@@ -184,7 +184,7 @@ sections:
           position: center
           color: '#333'
       - title: 团建活动
-        content: '实验室定期组织参加学术讲座、参观博物馆、市郊游玩、聚餐、羽毛球、乒乓球运动等丰富的团建活动。。'
+        content: '实验室定期组织参加学术讲座、参观博物馆、市郊游玩、聚餐、羽毛球、乒乓球运动等丰富的团建活动。'
         align: right
         background:
           image:
