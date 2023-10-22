@@ -11,7 +11,7 @@ authors:
   - GongShiqi
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: 网络空间与安全学院 副教授、博士生导师
@@ -71,7 +71,7 @@ social:
   #   icon_pack: fab
   #   link: https://github.com/gcushen
   - icon: IEEE
-    icon_pack: fab
+    icon_pack: fas
     link:  https://ieeexplore.ieee.org/author/37085678218
 
  

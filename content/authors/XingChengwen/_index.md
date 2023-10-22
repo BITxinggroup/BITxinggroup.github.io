@@ -14,7 +14,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 教授，博士生导师
+role: 信息与电子学院 教授，博士生导师
 
 # Organizations/Affiliations
 organizations:
@@ -64,7 +64,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?hl=zh-CN&user=Norow3wAAAAJ
   - icon: IEEE
-    icon_pack: fab
+    icon_pack: fas
     link: https://ieeexplore.ieee.org/author/37392522900
 
 
