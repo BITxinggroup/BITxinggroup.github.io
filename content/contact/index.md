@@ -24,7 +24,7 @@ sections:
 
       coordinates:
         latitude: '39.95773061692694'
-        longitude: '116.31922592137144'
+        longitude: '116.31912592137144'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
