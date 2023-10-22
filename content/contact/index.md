@@ -21,9 +21,10 @@ sections:
       #   postcode: '100081'
       #   country: 中国
       #   country_code: CN
+
       coordinates:
-        latitude: '39.9576'
-        longitude: '116.3192'
+        latitude: '39.957489'
+        longitude: '116.319175'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
