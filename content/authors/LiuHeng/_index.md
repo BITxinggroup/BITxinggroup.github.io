@@ -10,8 +10,8 @@ last_name: Liu
 authors:
   - LiuHeng
 
-# Is this the primary user of the site?
-superuser: true
+# # Is this the primary user of the site?
+# superuser: true
 
 # Role/position
 role: 网络空间与安全学院 博士后
