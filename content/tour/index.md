@@ -68,7 +68,7 @@ sections:
         align: right
         background:
           image:
-            filename: 讲座2.jpg
+            filename: 讲座3.jpg
             filters:
               brightness: 0.5
           position: center
@@ -78,7 +78,7 @@ sections:
         align: right
         background:
           image:
-            filename: 讲座3.jpg
+            filename: 讲座2.jpg
             filters:
               brightness: 0.5
           position: center
@@ -188,7 +188,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
       interval: 2000
 ---
