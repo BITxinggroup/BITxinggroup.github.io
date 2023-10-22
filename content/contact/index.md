@@ -9,14 +9,13 @@ sections:
     content:
       title: Contact
       text: |-
-        欢迎有志于科研的优秀学子加入本实验室
-        我们的联系方式:
+        欢迎有志于科研的优秀学子加入本实验室！
       email: chengwenxing@bit.edu.cn 邢成文教授
-      email: shiqigong@bit.edu.cn 巩世琪副教授
+      # email: shiqigong@bit.edu.cn 巩世琪副教授
       # phone: 888 888 88 88
       address: 北京市海淀区中关村南大街5号院  北京理工大学
-      address: 邢成文教授： 10#609(信息科学实验楼609)
-      address: 巩世琪副教授： 中心教学楼544
+      # address: 邢成文教授： 10#609(信息科学实验楼609)
+      # address: 巩世琪副教授： 中心教学楼544
         # street: 450 Serra Mall
         # city: Stanford
         # region: CA
