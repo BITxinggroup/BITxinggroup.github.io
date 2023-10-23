@@ -26,16 +26,10 @@ marketing:
     google_tag_manager: ''
     microsoft_clarity: ''
   verification:
-    google: ''
-    baidu: ''
-
-# verifying
-
-marketing:
-  verification:
-    google: 'googlead663f04ed623533.html'
+    google: 'M_h2WaNeofcmFwVfTe2a8BjwrwLYqsKcQzL3phVwxM8'
     baidu: ''
     bing: '1BA662CF0AE6F3CE7D1ADAC0198C4332'
+
 
 
 # Site header
