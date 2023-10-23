@@ -29,6 +29,15 @@ marketing:
     google: ''
     baidu: ''
 
+# verifying
+
+marketing:
+  verification:
+    google: 'googlead663f04ed623533.html'
+    baidu: ''
+    bing: '1BA662CF0AE6F3CE7D1ADAC0198C4332'
+
+
 # Site header
 
 header:
